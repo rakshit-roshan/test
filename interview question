@@ -4,7 +4,7 @@ ok can we start ?
 
 a) introduce yourself
 b) Why are you looking for a job change?
-c?
+c? I noticed that you took a break from work for about a year. Could you tell me more about that period? What did you do during this time, and how have you kept your skills up-to-date?
 
 1) Explain the four pillars of OOP (Inheritance, Encapsulation, Abstraction, and Polymorphism). Can you give an example of how you've used each in your projects?
 2) What is a deadlock in multithreading, and how can you avoid it?
@@ -12,3 +12,5 @@ c?
 4) What is an index and nolock in sql, and how does it improve database performance?
 5) Let's talk about your previous job. Can you describe any 5 key functionalities or projects you worked on during that time?
 6) Describe a time when you had to manage multiple projects at once.
+
+“ok That’s all for today. Do you have any questions before we finish?”
